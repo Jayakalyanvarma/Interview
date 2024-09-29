@@ -229,9 +229,7 @@ Semaphores are integer variables used to solve the critical section problem by u
 Memory management is the process of controlling and coordinating a computer's main memory. It ensures that blocks of memory space are properly managed and allocated so that the operating system (OS), applications, and other running processes can use them efficiently.
 """
 
-# The markdown content based on the provided text
-memory_management_md_content = """
-# Memory Management
+
 
 ## 1. Explain Swapping in Memory Management
 Swapping in an operating system refers to the process of moving data between main memory (RAM) and secondary storage. It is subdivided into:
