@@ -171,37 +171,37 @@ What is a MAC address?
 **Answer:** Port forwarding is a network configuration that directs incoming traffic from a specific port on an external IP address to a specific port and IP address within a local network, commonly used for remote access to services.
 
 ## Transport Layer Protocols:
--**TCP:** stands for Transmission Control Protocol.
--**1**It provides full transport layer services to applications.
--**2**It is a connection-oriented protocol means the connection established between both the ends of the transmission. For creating theconnection, TCP generates a virtual circuit between sender and receiver for the duration of a transmission.
+- **TCP:** stands for Transmission Control Protocol.
+- **1**It provides full transport layer services to applications.
+- **2**It is a connection-oriented protocol means the connection established between both the ends of the transmission. For creating theconnection, TCP generates a virtual circuit between sender and receiver for the duration of a transmission.
 
--**1**UDP stands for User Datagram Protocol.
--**2**UDP is a simple protocol and it provides nonsequenced transport functionality.
--**3**UDP is a connectionless protocol.
--**4**This type of protocol is used when reliability and security are less important than speed and size.
+- **1**UDP stands for User Datagram Protocol.
+- **2**UDP is a simple protocol and it provides nonsequenced transport functionality.
+- **3**UDP is a connectionless protocol.
+- **4**This type of protocol is used when reliability and security are less important than speed and size.
 
 
 ## Application Layer Protocols:
 
 ## Http:
--**1**HTTP stands for HyperText Transfer Protocol.
--**2**It is a protocol used to access the data on the World Wide Web (www).
--**3**The HTTP protocol can be used to transfer the data in the form of plain text, hypertext, audio, video, and so on.
--**4**HTTP is similar to the FTP as it also transfers the files from one host to another host.
+- **1**HTTP stands for HyperText Transfer Protocol.
+- **2**It is a protocol used to access the data on the World Wide Web (www).
+- **3**The HTTP protocol can be used to transfer the data in the form of plain text, hypertext, audio, video, and so on.
+- **4**HTTP is similar to the FTP as it also transfers the files from one host to another host.
 
 ## Ftp:
--**1**FTP stands for File transfer protocol.
--**2**FTP is a standard internet protocol provided by TCP/IP used for transmitting the files from one host to another.
--**3** is also used for downloading the files to computer from other servers.
+- **1**FTP stands for File transfer protocol.
+- **2**FTP is a standard internet protocol provided by TCP/IP used for transmitting the files from one host to another.
+- **3** is also used for downloading the files to computer from other servers.
 
 ## Smtp:
--**1**SMTP stands for Simple Mail Transfer Protocol.
--**2**SMTP is a set of communication guidelines that allow software to transmit an electronic mail over the internet is called Simple Mail 
+- **1**SMTP stands for Simple Mail Transfer Protocol.
+- **2**SMTP is a set of communication guidelines that allow software to transmit an electronic mail over the internet is called Simple Mail 
 
 ## Transfer Protocol.
--**1**It is a program used for sending messages to other computer users based on e-mail addresses.
--**2**It can send a single message to one or more recipients.
--**3**Sending message can include text, voice, video or graphics.
+- **1**It is a program used for sending messages to other computer users based on e-mail addresses.
+- **2**It can send a single message to one or more recipients.
+- **3**Sending message can include text, voice, video or graphics.
 
 ## Ssh:
-**1**SSH stands for Secure Shell or Secure Socket Shell. It is a cryptographic network protocol that allows two computers to communicate and share the data over an insecure network such as the internet. It is used to login to a remote server to execute commands and data transfer from one machine to another machine.
+- **1**SSH stands for Secure Shell or Secure Socket Shell. It is a cryptographic network protocol that allows two computers to communicate and share the data over an insecure network such as the internet. It is used to login to a remote server to execute commands and data transfer from one machine to another machine.
